@@ -27,3 +27,7 @@
   
 </p>
 
+
+<h3 align="center">🛠 Certificate 🛠</h3>
+<p align="center"> SQL개발자 자격증 </p>
+<p align="center"> 정보처리산업기사  </p>
