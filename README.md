@@ -1,6 +1,6 @@
 
 <h1 align="center"> Developer Hunny </h1>
-<p align="center"> <b>안녕하세요 안드로이드 앱 &  백엔드 개발자 고대훈입니다! </p>
+<p align="center"> <b>안녕하세요 안드로이드 앱 &  풀스택 개발자 고대훈입니다! </p>
 <br>
 <p align="center">  열정과 성실함이 저의 강점입니다! <br> 
     지금은 Spring 공부를 하면서 백엔드 공부에 전념중입니다.
