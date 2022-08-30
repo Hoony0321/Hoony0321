@@ -1,6 +1,6 @@
 
 <h1 align="center"> Developer Hunny </h1>
-<p align="center"> <b>안녕하세요 안드로이드 앱 &  풀스택 개발자 고대훈입니다! </p>
+<p align="center"> <b>안녕하세요 풀스택 개발자 고대훈입니다! </p>
 <br>
 <p align="center">  열정과 성실함이 저의 강점입니다! <br> 
 </p>
@@ -30,3 +30,4 @@
 <h3 align="center">🛠 Certificate 🛠</h3>
 <p align="center"> SQL개발자 </p>
 <p align="center"> 정보처리산업기사  </p>
+<p align="center"> SW마에스트로 13기  </p>
