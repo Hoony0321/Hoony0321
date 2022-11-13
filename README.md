@@ -4,7 +4,7 @@
 <br>
 <br>
 
-<p align="center"> <b>안녕하세요. 백엔드 개발자 고대훈입니다. </p>
+<p align="center"> <b>안녕하세요.  개발자 고대훈입니다. </p>
 <br>
 <p align="center">  열정과 성실함이 저의 강점입니다! <br> 
 
