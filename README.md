@@ -1,5 +1,5 @@
 
-<h1 align="center"> Developer Hunny </h1>
+<h1 align="center"> Hoony </h1>
 <p align="center"> <b>안녕하세요 풀스택 개발자 고대훈입니다! </p>
 <br>
 <p align="center">  열정과 성실함이 저의 강점입니다! <br> 
