@@ -6,7 +6,6 @@
 </p>
 
 <br>
-<br>
 
 <h3>🏢 Experience 🏢</h3>
 <ul>
@@ -14,7 +13,6 @@
     <li>BlockwaveLabs 백엔드 & 컨트랙트 개발자 근무 (2023 ~ 현재)</li>
 </ul>
 
-<br>
 <br>
 
 <h3>🔥 Project 🔥</h3>
@@ -24,7 +22,6 @@
     <li><b>InvincibleNode (Defi project)</b> &nbsp leverage & liquidity staking이 가능한 새로운 Web3.0 디파이 서비스</li>
 </ul>
 
-<br>
 <br>
 
 
@@ -62,7 +59,6 @@
 </ul>
   
 <br>
-<br>
 
 <h3>🗂 Certificate 🗂</h3>
 <ul>
@@ -70,7 +66,6 @@
     <li>정보처리산업기사</li>
 </ul>
 
-<br>
 <br>
 
 
