@@ -50,3 +50,5 @@
   <a href="https://friendly-oil-ffd.notion.site/Hoony-s-a0d4b36ba9f6402491c5e023b23d7173"><img src="https://img.shields.io/badge/Portpolio-white?style=flat-square&logo=Notion&logoColor=black&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
   <a href="mailto:eogns0321@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=eogns0321@gmail.com"/></a>
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoony0321)](https://github.com/anuraghazra/github-readme-stats)
