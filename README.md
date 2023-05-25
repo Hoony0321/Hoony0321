@@ -18,7 +18,7 @@
 <h3>🔥 Project 🔥</h3>
 <ul>
     <li><b>판소리 (Pansori) </b>  &nbsp 나홀로 소송을 위한 판례 요약 및 절차 안내 서비스</li>
-    <li><b>세모체 (세상의 모든 체크리스트)</b> &nbsp 당신에게 필요한 신뢰도 높은 체크리스트  </li>
+    <li>[세모체 (세상의 모든 체크리스트)](https://friendly-oil-ffd.notion.site/2ffabccf6d7945ec89a6edc30b952d9f) &nbsp </li>
     <li><b>InvincibleNode (Defi project)</b> &nbsp leverage & liquidity staking이 가능한 새로운 Web3.0 디파이 서비스</li>
 </ul>
 
