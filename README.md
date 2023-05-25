@@ -16,14 +16,13 @@
 <br>
 
 <h3>🔥 Project 🔥</h3>
-<ul>
-    <li><b>판소리 (Pansori) </b>  &nbsp 나홀로 소송을 위한 판례 요약 및 절차 안내 서비스</li>
-    <li>[세모체 (세상의 모든 체크리스트)](https://friendly-oil-ffd.notion.site/2ffabccf6d7945ec89a6edc30b952d9f) &nbsp </li>
-    <li><b>InvincibleNode (Defi project)</b> &nbsp leverage & liquidity staking이 가능한 새로운 Web3.0 디파이 서비스</li>
-</ul>
+* [세모체 (세상의 모든 체크리스트)](https://friendly-oil-ffd.notion.site/2ffabccf6d7945ec89a6edc30b952d9f) 세상의 모든 체크리스트를 모아서 신뢰성 높은 체크리스트를 제공해주는 서비스 
+* [판소리](https://friendly-oil-ffd.notion.site/24d2ade732414eab96cf61662b423992) 나홀로 소송을 위한 판례 요약 및 절차 안내 서비스
+* [InvincibleNode (Blockchain Defil Service)](https://friendly-oil-ffd.notion.site/InvincibleNode-a52b3939e89848c68483a8ae7d3019ef) leverage & liquidity staking이 가능한 새로운 블록체인 디파이 서비스
 
 <br>
 
+[세모체 (세상의 모든 체크리스트)](https://friendly-oil-ffd.notion.site/2ffabccf6d7945ec89a6edc30b952d9f)
 
 <h3>🛠 Skill 🛠</h3>
 
