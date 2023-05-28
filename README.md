@@ -35,6 +35,7 @@
   <li> Backend : 
         <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
+        <img src="https://img.shields.io/badge/NodeJS-green?style=flat-square&logo=Node&logoColor=white"/></a>&nbsp
         <img src="https://img.shields.io/badge/MariaDB-99a8a4?style=flat-square&logo=MariaDB&logoColor=white"/></a>&nbsp 
         <img src="https://img.shields.io/badge/MySQL-2E538A?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
         <img src="https://img.shields.io/badge/Redis-d14836?style=flat-square&logo=Redis&logoColor=white"/></a>&nbsp
