@@ -10,7 +10,7 @@
 <h3>🏢 Experience 🏢</h3>
 <ul>
     <li>SW마에스트로 13기 (2022/04 ~ 2022/11)</li>
-    <li>BlockwaveLabs 백엔드 & 컨트랙트 개발자 근무 (2022/12 ~ 현재)</li>
+    <li>BlockwaveLabs 백엔드 & 컨트랙트 개발자 근무 (2022/12 ~ 2022/05)</li>
 </ul>
 
 <br>
