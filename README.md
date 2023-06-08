@@ -68,7 +68,7 @@
 <br>
 
 
-<h3> 🧸 Contact Me 🧸 </h3>
+<h3> 🧸 About Me 🧸 </h3>
 <p>
   <a href="https://velog.io/@eogns0321"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@eogns0321"/></a>&nbsp
   <a href="https://friendly-oil-ffd.notion.site/Hoony-s-a0d4b36ba9f6402491c5e023b23d7173"><img src="https://img.shields.io/badge/Portpolio-white?style=flat-square&logo=Notion&logoColor=black&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
