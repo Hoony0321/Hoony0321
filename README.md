@@ -41,6 +41,7 @@
         <img src="https://img.shields.io/badge/MariaDB-99a8a4?style=flat-square&logo=MariaDB&logoColor=white"/></a>&nbsp 
         <img src="https://img.shields.io/badge/MySQL-2E538A?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
         <img src="https://img.shields.io/badge/Redis-d14836?style=flat-square&logo=Redis&logoColor=white"/></a>&nbsp
+        <img src="https://img.shields.io/badge/NestJS-red?style=flat-square&logo=NestJS&logoColor=white"/></a>&nbsp
   </li>
   <li> Frontend : 
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
