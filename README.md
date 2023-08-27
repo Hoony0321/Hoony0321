@@ -5,6 +5,8 @@
     저는 새로운 언어와 프레임워크를 배우는 것을 두려워하지 않고, 현재 프로젝트에 필요하다면 빠르게 배워서 적용하고자 합니다.
 </p>
 
+* [포트폴리오 바로가기](https://friendly-oil-ffd.notion.site/Hoony-s-a0d4b36ba9f6402491c5e023b23d7173) - 해당 노션페이지에서 저에 대해 자세히 확인할 수 있습니다.
+
 <br>
 
 <h3>🏢 Experience 🏢</h3>
@@ -72,11 +74,11 @@
 
 
 <h3> 🧸 About Me 🧸 </h3>
-<p>
-  <a href="https://velog.io/@eogns0321"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@eogns0321"/></a>&nbsp
-  <a href="https://friendly-oil-ffd.notion.site/Hoony-s-a0d4b36ba9f6402491c5e023b23d7173"><img src="https://img.shields.io/badge/Portpolio-white?style=flat-square&logo=Notion&logoColor=black&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
-  <a href="mailto:eogns0321@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=eogns0321@gmail.com"/></a>
-</p>
+<ul>
+    <li><a href="https://friendly-oil-ffd.notion.site/Hoony-s-a0d4b36ba9f6402491c5e023b23d7173"><img src="https://img.shields.io/badge/Portpolio-orange?style=flat-square&logo=Notion&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a></li>
+  <li><a href="https://velog.io/@eogns0321"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@eogns0321"/></a></li>
+  <li><a href="mailto:eogns0321@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=eogns0321@gmail.com"/></a></li>
+</ul>
 
 <br>
 <br>
