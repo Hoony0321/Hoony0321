@@ -14,7 +14,7 @@
 <ul>
     <li>SW마에스트로 13기 (2022/04 ~ 2022/11)</li>
     <li>BlockwaveLabs 백엔드 & 컨트랙트 개발자 근무 (2022/12 ~ 2023/05)</li>
-    <li>Right OnePoint 백엔드(2023/07 ~ 현재)</li>
+    <li>Right OnePoint 백엔드(2023/07 ~ 2023/10)</li>
 </ul>
 
 <br>
