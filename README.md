@@ -2,7 +2,9 @@
 
 Hello, I'm Daehun Go, a passionate developer.
 
-I am always eager to learn new technologies and enjoy gaining diverse experiences. I aim not to be just a coder who builds features but a developer who creates meaningful services.
+I am always eager to learn new technologies and enjoy gaining diverse experiences.  
+
+I aim not to be just a coder who builds features but a developer who creates meaningful services.    
 
 [Go to Portfolio](https://friendly-oil-ffd.notion.site/Hoony-s-a0d4b36ba9f6402491c5e023b23d7173) - You can find more details about me on my Notion page.
 
