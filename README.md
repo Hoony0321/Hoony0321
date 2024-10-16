@@ -1,30 +1,27 @@
-## 🔥 열정 개발자 🔥
+## 🔥 Developer DAEHUN (Alex) 🔥
 
-안녕하세요. **열정 개발자** 고대훈입니다.
+Hello, I'm Daehun Go, a passionate developer.
 
-새로운 기술을 배우는 것에 주저함이 없고 다양한 경험을 하는 것을 좋아합니다.
+I am always eager to learn new technologies and enjoy gaining diverse experiences. I aim not to be just a coder who builds features but a developer who creates meaningful services.
 
-저는 단순히 기능 개발을 하는 코더(coder)가 아닌 **서비스를 개발하는 개발자**가 되고 싶습니다.
-
-* [포트폴리오 바로가기](https://friendly-oil-ffd.notion.site/Hoony-s-a0d4b36ba9f6402491c5e023b23d7173) - 해당 노션페이지에서 저에 대해 자세히 확인할 수 있습니다.
+[Go to Portfolio](https://friendly-oil-ffd.notion.site/Hoony-s-a0d4b36ba9f6402491c5e023b23d7173) - You can find more details about me on my Notion page.
 
 <br>
 
-<h3>🏢 Experience 🏢</h3>
+<h3>🏢 Working Experience 🏢</h3>
 <ul>
-    <li>SW마에스트로 13기 (2022/04 ~ 2022/11)</li>
-    <li>BlockwaveLabs 백엔드 & 컨트랙트 개발자 근무 (2022/12 ~ 2023/05)</li>
-    <li>Right OnePoint 백엔드(2023/07 ~ 2023/10)</li>
+    <li>Backend & Contract Developer at BlockwaveLabs (2022/12 ~ 2023/05)</li>
+    <li>Backend Developer at Right OnePoint(2023/06 ~ 2023/12)</li>
 </ul>
 
 <br>
 
 <h3>🔥 Project 🔥</h3>
 
-* [세모체 (세상의 모든 체크리스트)](https://friendly-oil-ffd.notion.site/2ffabccf6d7945ec89a6edc30b952d9f) 세상의 모든 체크리스트를 모아서 신뢰성 높은 체크리스트를 제공해주는 서비스  
-* [판소리](https://friendly-oil-ffd.notion.site/24d2ade732414eab96cf61662b423992) 나홀로 소송을 위한 판례 요약 및 절차 안내 서비스  
-* [InvincibleNode (Blockchain Defi Service)](https://friendly-oil-ffd.notion.site/InvincibleNode-a52b3939e89848c68483a8ae7d3019ef) leverage & liquidity staking이 가능한 새로운 블록체인 디파이 서비스
-* [원포인트](https://friendly-oil-ffd.notion.site/f9eca1d8e3554fc6a380d69f3205fa1a?pvs=4) 탑티어 프리랜서 마케터 매칭 서비스
+* [OnePoint](https://friendly-oil-ffd.notion.site/f9eca1d8e3554fc6a380d69f3205fa1a?pvs=4) A top-tier freelancer marketer matching service.
+* [Semochae (All the Checklists in the World)](https://friendly-oil-ffd.notion.site/2ffabccf6d7945ec89a6edc30b952d9f)  A service that gathers all checklists in the world to provide reliable ones.  
+* [Pansori](https://friendly-oil-ffd.notion.site/24d2ade732414eab96cf61662b423992) A service that summarizes case law and guides legal procedures for those navigating lawsuits on their own.
+* [InvincibleNode (Blockchain Defi Service)](https://friendly-oil-ffd.notion.site/InvincibleNode-a52b3939e89848c68483a8ae7d3019ef) A new blockchain DeFi service with leverage & liquidity staking features.
 
 <br>
 
@@ -65,10 +62,12 @@
   
 <br>
 
-<h3>🗂 Certificate 🗂</h3>
+<h3>🗂 Education & License 🗂</h3>
 <ul>
-    <li>SQL개발자(SQLD)</li>
-    <li>정보처리산업기사</li>
+    <li>Bachelor of Science in Software Convergence & Data Science in Kyung Hee University (2024/02) </li>
+    <li>SW Maestro 13th class (2022/04 ~ 2022/11)</li>
+    <li>SQL Developer License (SQLD)</li>
+    <li>Industrial Engineer Information Processing License</li>
 </ul>
 
 <br>
@@ -80,8 +79,3 @@
   <li><a href="https://velog.io/@eogns0321"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@eogns0321"/></a></li>
   <li><a href="mailto:eogns0321@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=eogns0321@gmail.com"/></a></li>
 </ul>
-
-<br>
-<br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoony0321&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
