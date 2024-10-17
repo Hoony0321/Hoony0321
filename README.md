@@ -6,7 +6,7 @@ I am always eager to learn new technologies and enjoy gaining diverse experience
 
 I aim not to be just a coder who builds features but a developer who creates meaningful services.    
 
-[Go to Portfolio](https://friendly-oil-ffd.notion.site/Hoony-s-a0d4b36ba9f6402491c5e023b23d7173) - You can find more details about me on my Notion page.
+[Go to Portfolio](https://friendly-oil-ffd.notion.site/DAEHUN-GO-121128d13eb480cfaeecd9518df68b53) - You can find more details about me on my Notion page.
 
 <br>
 
@@ -66,7 +66,7 @@ I aim not to be just a coder who builds features but a developer who creates mea
 
 <h3>🗂 Education & License 🗂</h3>
 <ul>
-    <li>Bachelor of Science in Software Convergence & Data Science in Kyung Hee University (2024/02) </li>
+    <li>Bachelor of Science in Software Convergence & Data Science, Kyung Hee University (2024/02) </li>
     <li>SW Maestro 13th class (2022/04 ~ 2022/11)</li>
     <li>SQL Developer License (SQLD)</li>
     <li>Industrial Engineer Information Processing License</li>
