@@ -12,8 +12,8 @@ I aim not to be just a coder who builds features but a developer who creates mea
 
 <h3>🏢 Working Experience 🏢</h3>
 <ul>
-    <li>Backend & Contract Developer at BlockwaveLabs (2022/12 ~ 2023/05)</li>
     <li>Backend Developer at Right OnePoint(2023/06 ~ 2023/12)</li>
+    <li>Backend & Contract Developer at BlockwaveLabs (2022/12 ~ 2023/05)</li>
 </ul>
 
 <br>
