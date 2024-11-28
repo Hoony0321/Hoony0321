@@ -20,10 +20,10 @@ I aim not to be just a coder who builds features but a developer who creates mea
 
 <h3>🔥 Project 🔥</h3>
 
-* [OnePoint](https://friendly-oil-ffd.notion.site/f9eca1d8e3554fc6a380d69f3205fa1a?pvs=4) A top-tier freelancer marketer matching service.
-* [Semochae (All the Checklists in the World)](https://friendly-oil-ffd.notion.site/2ffabccf6d7945ec89a6edc30b952d9f)  A service that gathers all checklists in the world to provide reliable ones.  
-* [Pansori](https://friendly-oil-ffd.notion.site/24d2ade732414eab96cf61662b423992) A service that summarizes case law and guides legal procedures for those navigating lawsuits on their own.
-* [InvincibleNode (Blockchain Defi Service)](https://friendly-oil-ffd.notion.site/InvincibleNode-a52b3939e89848c68483a8ae7d3019ef) A new blockchain DeFi service with leverage & liquidity staking features.
+* [OnePoint](https://www.notion.so/OnePoint-121128d13eb4815d8ef1dd254db4367c?pvs=4) A top-tier freelancer marketer matching service.
+* [Semochae (All the Checklists in the World)](https://www.notion.so/Semochae-121128d13eb481a2aadad517682cd4a9?pvs=4)  A service that gathers all checklists in the world to provide reliable ones.  
+* [Pansori](https://www.notion.so/Pansori-14c128d13eb48000b8c4d9dc082a1c48?pvs=4) A service that summarizes case law and guides legal procedures for those navigating lawsuits on their own.
+* [InvincibleNode (Blockchain Defi Service)](https://www.notion.so/InvincibleNode-121128d13eb4817c89d9d0d36cf94a79?pvs=4) A new blockchain DeFi service with leverage & liquidity staking features.
 
 <br>
 
