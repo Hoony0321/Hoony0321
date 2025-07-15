@@ -6,7 +6,7 @@ I am always eager to learn new technologies and enjoy gaining diverse experience
 
 I aim not to be just a coder who builds features but a developer who creates meaningful services.    
 
-[Go to Portfolio](https://friendly-oil-ffd.notion.site/DAEHUN-GO-121128d13eb480cfaeecd9518df68b53) - You can find more details about me on my Notion page.
+[Go to Portfolio](https://friendly-oil-ffd.notion.site/a0d4b36ba9f6402491c5e023b23d7173) - You can find more details about me on my Notion page.
 
 <br>
 
